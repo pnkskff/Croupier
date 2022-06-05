@@ -28,7 +28,7 @@ III. OPTIMIZATION:
   
   5. Link with Server to keep and serve User and Score info.
 
-IV: FURTHER INFO:
+IV. FURTHER INFO:
 
   1. Readme last updated on: JUNE 2022
 
