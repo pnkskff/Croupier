@@ -1,8 +1,18 @@
 # Croupier
+
+I. INTRO:
+
 Croupier Site: https://croupier.netlify.app/
 
-This is an App built to test my API skills.
+This is an App to play War, based off a Random Drawing of a 52 Card Deck.
 
-In future versions, I want to add Local Storage for Username and Score tracking.
+II. NOTES:
 
-Built with HTML/CSS/JS/API - Nothing too fancy!
+1. Built with HTML/CSS/JS/API.
+2. Deck of Cards API: https://deckofcardsapi.com/
+
+III. OPTIMIZATION:
+
+1. Local Storage for Username and Score tracking.
+
+
